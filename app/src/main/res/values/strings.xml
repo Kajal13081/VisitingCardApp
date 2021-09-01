@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="your_address">Your Address</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="your_job">Your Job</string>
+    <string name="your_email_id">Your Email Id</string>
+    <string name="your_name">Your Name</string>
+    <string name="todo">TODO</string>
+    <string name="hello">Hello!!</string>
+</resources>
